@@ -11,7 +11,7 @@ The system comprises three integrated pipelines:
   clinical notes
 - **MLOps Pipeline** — Automated retraining and model monitoring
 
-![Architecture Diagram](Sepsis Early Warning System Technical Architecture.png)
+![Architecture Diagram](Sepsis%20Early%20Warning%20System%20Technical%20Architecture.png)
 
 ## Tools & Technologies
 - HL7 FHIR R4/v2
